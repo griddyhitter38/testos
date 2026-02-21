@@ -3,8 +3,7 @@
 
 I don't actually know would it work besides linux/unix typed os but i'll try running qemu thru the windows
 
-to compile use this:
-    make
+to compile use make
 
 to run qemu use this commands:
 
