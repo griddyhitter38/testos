@@ -1,7 +1,7 @@
 # testos
 
 
-I don't actually know would it work besides linux/unix typed os but i'll try running qemu thru the windows
+I don't actually know would it work besides linux/unix environment but i'll try running qemu thru the windows
 
 to compile use make
 
